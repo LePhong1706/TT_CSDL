@@ -1,0 +1,36 @@
+@model Web_vuottai.Models.THOIKHOABIEU
+
+@{
+    ViewData["Title"] = "Chi tiết";
+}
+
+<h1>Chi tiết</h1>
+
+<div>
+    <h4>Năm học - Học kỳ</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NamHoc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NamHoc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.HocKy)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.HocKy)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenTkb)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenTkb)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.TkbId" class="btn btn-primary">Sửa</a> |
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</div>

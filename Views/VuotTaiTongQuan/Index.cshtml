@@ -1,0 +1,239 @@
+﻿@model Web_vuottai.Models.DashboardViewModel
+
+@{
+    ViewData["Title"] = "Dashboard Tổng quan Vượt tải";
+    string? hoTenFilter = ViewData["HoTenFilter"] as string;
+    int? selHk = ViewBag.HocKy as int?;
+}
+
+<!-- Thư viện Chart.js -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">@ViewData["Title"]</h3>
+    </div>
+    <div class="card-body">
+
+        <!-- ===== VÙNG KPI CARDS ===== -->
+        <div class="row g-3 mb-4">
+            <!-- Card 1: Tổng giờ vượt -->
+            <div class="col-md-4">
+                <div class="card text-white bg-primary">
+                    <div class="card-body">
+                        <h5 class="card-title">Tổng giờ vượt tải</h5>
+                        <p class="card-text fs-4">@Model.TongGioVuot.ToString("N2") giờ</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 2: Tổng tiền thanh toán -->
+            <div class="col-md-4">
+                <div class="card text-white bg-success">
+                    <div class="card-body">
+                        <h5 class="card-title">Tổng tiền thanh toán</h5>
+                        <p class="card-text fs-4">@Model.TongThanhTien.ToString("N0") VNĐ</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Card 3: Số giảng viên có giờ vượt -->
+            <div class="col-md-4">
+                <div class="card text-white bg-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Số giảng viên có giờ vượt</h5>
+                        <p class="card-text fs-4">@Model.SoGiangVienVuotTai giảng viên</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== VÙNG BIỂU ĐỒ ===== -->
+        <div class="row g-3 mb-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title">Biểu đồ giờ vượt tải theo Khoa/Đơn vị</h5>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="donViChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ===== FORM LỌC (giữ nguyên) ===== -->
+        <form asp-action="Index" method="get" class="row g-3 mb-3 align-items-end p-3 border rounded-3">
+            <div class="col-md-4">
+                <label class="form-label" for="hoTen">Họ tên</label>
+                <input type="text" name="hoTen" id="hoTen" class="form-control" value="@hoTenFilter" placeholder="Tìm theo họ tên..."/>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" for="chucDanh">Chức danh</label>
+                <select name="chucDanh" id="chucDanh" class="form-select" asp-items="ViewBag.ChucDanhList"></select>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" for="chucVu">Chức vụ</label>
+                <select name="chucVu" id="chucVu" class="form-select" asp-items="ViewBag.ChucVuList"></select>
+            </div>
+            <!-- Hàng 2 -->
+            <div class="col-md-3 mt-3">
+                <label class="form-label" for="donVi">Đơn vị</label>
+                <select name="donVi" id="donVi" class="form-select" asp-items="ViewBag.DonViList"></select>
+            </div>
+            <div class="col-md-3 mt-3">
+                <label class="form-label" for="namHoc">Năm học</label>
+                <select name="namHoc" id="namHoc" class="form-select" asp-items="ViewBag.NamHocList"></select>
+            </div>
+            <div class="col-md-3 mt-3">
+                <label class="form-label" for="hocKy">Học kỳ</label>
+                <select name="hocKy" id="hocKy" class="form-select">
+                    <option value="" selected="@(selHk == null)">Cả năm</option>
+                    <option value="1" selected="@(selHk == 1)">Học kỳ 1</option>
+                    <option value="2" selected="@(selHk == 2)">Học kỳ 2</option>
+                </select>
+            </div>
+            <div class="col-md-3 mt-3 d-flex align-items-end gap-2">
+                <button class="btn btn-primary" type="submit">Lọc</button>
+                <a asp-action="Index" class="btn btn-secondary">Làm mới</a>
+            </div>
+        </form>
+
+        <!-- ===== BẢNG DỮ LIỆU CHI TIẾT ===== -->
+        <h5 class="mt-4">Bảng chi tiết</h5>
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Họ tên</th>
+                    <th>Chức danh</th>
+                    <th>Chức vụ</th>
+                    <th>Năm học</th>
+                    <th>Học kỳ</th>
+                    <th>Giờ chuẩn</th>
+                    <th>Giờ thực tế</th>
+                    <th>Giờ vượt tải</th>
+                    <th>Thành tiền</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var r in Model.VuotTaiList)
+                {
+                    <tr>
+                        <td>@r.HoTen</td>
+                        <td>@r.TenChucDanh</td>
+                        <td>@r.TenChucVu</td>
+                        <td>@r.NamHoc</td>
+                        <td>@r.HocKy</td>
+                        <td>@r.GioChuan</td>
+                        <td>@r.GioThucTe</td>
+                        <td>@r.GioVuot</td>
+                        <td>@r.ThanhTien?.ToString("N0")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+
+            // ----- 1. Đăng ký plugin Datalabels và cài đặt chung -----
+            Chart.register(ChartDataLabels);
+            Chart.defaults.set('plugins.datalabels', {
+                color: '#FFF', // Màu chữ của nhãn (số trên cột)
+                anchor: 'end',
+                align: 'top',
+                font: {
+                    weight: 'bold'
+                },
+                formatter: function(value, context) {
+                    // Chỉ hiển thị nhãn nếu giá trị > 0
+                    return value > 0 ? value.toFixed(2) : ''; // Làm tròn 2 chữ số
+                }
+            });
+            Chart.defaults.set('color', '#9a9a9a'); // Màu chữ mặc định cho các trục (hợp nền tối)
+
+            // ----- 2. Lấy màu chủ đạo từ CSS (Theme Maxton) -----
+            var style = getComputedStyle(document.documentElement);
+            var primaryRgb = style.getPropertyValue('--bs-primary-rgb').trim(); // "52, 136, 235"
+            var primaryColor = style.getPropertyValue('--bs-primary').trim();   // "#3488eb"
+
+            // ----- 3. Dữ liệu biểu đồ (giữ nguyên) -----
+            const donViChartData = {
+                labels: @Html.Raw(Json.Serialize(Model.DonViChart.Labels)),
+                datasets: [{
+                    label: 'Giờ vượt tải',
+                    data: @Html.Raw(Json.Serialize(Model.DonViChart.Data)),
+                    
+                    // ----- 4. Sửa màu sắc (dùng màu theme) -----
+                    backgroundColor: `rgba(${primaryRgb}, 0.6)`, // Dùng màu Primary (với 60% opacity)
+                    borderColor: primaryColor,                   // Dùng màu Primary (đậm)
+                    borderWidth: 1,
+                    borderRadius: 4 // Thêm bo góc cho thanh
+                }]
+            };
+
+            // ----- 5. Cấu hình biểu đồ (Options) - Đã nâng cấp -----
+            const donViChartConfig = {
+                type: 'bar',
+                data: donViChartData,
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            title: {
+                                display: true,
+                                text: 'Số giờ',
+                                color: '#9a9a9a' // Thêm màu
+                            },
+                            ticks: { color: '#9a9a9a' }, // Màu chữ trục Y
+                            grid: { color: 'rgba(255, 255, 255, 0.1)' } // Màu lưới
+                        },
+                        x: {
+                            ticks: { color: '#9a9a9a' }, // Màu chữ trục X
+                            grid: { display: false }
+                        }
+                    },
+                    responsive: true,
+                    maintainAspectRatio: false, // Thêm dòng này để biểu đồ vừa vặn
+                    plugins: {
+                        legend: {
+                            display: false, // Tắt chú thích "Giờ vượt tải" (vì đã có tiêu đề)
+                        },
+                        title: {
+                            display: false, // Tắt tiêu đề (vì đã có trong card-header)
+                        },
+                        // Nâng cấp Tooltip
+                        tooltip: {
+                            backgroundColor: '#000',
+                            titleColor: '#fff',
+                            bodyColor: '#fff',
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.dataset.label || '';
+                                    if (label) {
+                                        label += ': ';
+                                    }
+                                    if (context.parsed.y !== null) {
+                                        // Thêm chữ "giờ"
+                                        label += context.parsed.y.toFixed(2) + ' giờ'; 
+                                    }
+                                    return label;
+                                }
+                            }
+                        },
+                        // Kích hoạt Datalabels (hiển thị số trên cột)
+                        datalabels: {
+                             // Đã cấu hình ở Chart.defaults
+                        }
+                    }
+                }
+            };
+
+            // ----- 6. Vẽ biểu đồ (giữ nguyên) -----
+            const ctx = document.getElementById('donViChart').getContext('2d');
+            new Chart(ctx, donViChartConfig);
+        });
+    </script>
+}

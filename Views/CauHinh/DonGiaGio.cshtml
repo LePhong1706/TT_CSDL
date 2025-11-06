@@ -1,0 +1,41 @@
+@model IEnumerable<Web_vuottai.Models.DONGIAGIO>
+
+@{
+    ViewData["Title"] = "Quản lý Đơn giá giờ";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">@ViewData["Title"]</h3>
+    </div>
+    <div class="card-body">
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Chức danh</th>
+                    <th>Năm học</th>
+                    <th>Đơn giá (VNĐ/giờ)</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ChucDanh.TenChucDanh</td>
+                        <td>@item.NamHoc</td>
+                        <form asp-action="UpdateDonGia" method="post">
+                            <input type="hidden" name="id" value="@item.Id" />
+                            <td>
+                                <input type="number" name="donGia" class="form-control" value="@item.DonGiaGio1" />
+                            </td>
+                            <td>
+                                <button type="submit" class="btn btn-sm btn-primary">Cập nhật</button>
+                            </td>
+                        </form>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

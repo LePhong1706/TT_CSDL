@@ -1,0 +1,38 @@
+﻿@model Web_vuottai.Models.LOP
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>XÓA THÔNG TIN LỚP HỌC</h1>
+
+<h3>Bạn có chắc muốn xóa lớp học này không?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaLop)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaLop)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenLop)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenLop)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.QuanSo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.QuanSo)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="LopId" />
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>

@@ -1,0 +1,1784 @@
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\appsettings.Development.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\appsettings.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.runtime.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.endpoints.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.exe
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.deps.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.runtimeconfig.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.pdb
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfoInputs.cache
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfo.cs
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.CoreCompileInputs.cache
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.MvcApplicationPartsAssemblyInfo.cache
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cache
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cs
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\scopedcss\bundle\Web_vuottai.styles.css
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\scopedcss\projectbundle\Web_vuottai.bundle.scp.css
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_vuottai.props
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_vuottai.props
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_vuottai.props
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\refint\Web_vuottai.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.pdb
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.genruntimeconfig.cache
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\ref\Web_vuottai.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Azure.Core.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Azure.Identity.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Humanizer.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\MySqlConnector.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.CodeDom.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.AssemblyReference.cache
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuot.C76FEAC2.Up2Date
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Common.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\WEB\ASP NET\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\appsettings.Development.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\appsettings.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.runtime.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.endpoints.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.exe
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.deps.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.runtimeconfig.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Web_vuottai.pdb
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Azure.Core.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Azure.Identity.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Humanizer.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\MySqlConnector.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Common.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.CodeDom.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.AssemblyReference.cache
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfoInputs.cache
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfo.cs
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.CoreCompileInputs.cache
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cache
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cs
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.sourcelink.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\scopedcss\bundle\Web_vuottai.styles.css
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\scopedcss\projectbundle\Web_vuottai.bundle.scp.css
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.development.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_vuottai.props
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_vuottai.props
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_vuottai.props
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuot.C76FEAC2.Up2Date
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\refint\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.pdb
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\Web_vuottai.genruntimeconfig.cache
+D:\CODE\TT_CSDL\Web_vuottai\Web_vuottai\obj\Debug\net8.0\ref\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\appsettings.Development.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\appsettings.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.runtime.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.endpoints.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.exe
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.deps.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.runtimeconfig.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Web_vuottai.pdb
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Azure.Core.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Azure.Identity.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Humanizer.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\MySqlConnector.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.Common.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.CodeDom.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.AssemblyReference.cache
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfoInputs.cache
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfo.cs
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.CoreCompileInputs.cache
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.MvcApplicationPartsAssemblyInfo.cache
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cache
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cs
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.sourcelink.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\scopedcss\bundle\Web_vuottai.styles.css
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\scopedcss\projectbundle\Web_vuottai.bundle.scp.css
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_vuottai.props
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_vuottai.props
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_vuottai.props
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuot.C76FEAC2.Up2Date
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\refint\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.pdb
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\Web_vuottai.genruntimeconfig.cache
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\obj\Debug\net8.0\ref\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\QuestPDF.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\SkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\csdl_lan1\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\appsettings.Development.json
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.endpoints.json
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\appsettings.json
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.runtime.json
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.exe
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.deps.json
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.runtimeconfig.json
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.pdb
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Azure.Core.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Azure.Identity.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Humanizer.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\MySqlConnector.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Common.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\QuestPDF.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SkiaSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.CodeDom.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\CODE\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.AssemblyReference.cache
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfoInputs.cache
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfo.cs
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.CoreCompileInputs.cache
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.MvcApplicationPartsAssemblyInfo.cache
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cache
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cs
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\bundle\Web_vuottai.styles.css
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\projectbundle\Web_vuottai.bundle.scp.css
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.development.json
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_vuottai.props
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_vuottai.props
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_vuottai.props
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuot.C76FEAC2.Up2Date
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\refint\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.pdb
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.genruntimeconfig.cache
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\ref\Web_vuottai.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\appsettings.Development.json
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\appsettings.json
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.endpoints.json
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.runtime.json
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.exe
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.deps.json
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.runtimeconfig.json
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.pdb
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Azure.Core.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Azure.Identity.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\HarfBuzzSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Humanizer.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\MySqlConnector.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Common.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Configuration.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Frameworks.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.LibraryModel.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Packaging.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.ProjectModel.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Protocol.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Versioning.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\QuestPDF.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SkiaSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.CodeDom.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Memory.Data.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\af\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ar\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\az\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\bg\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\da\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\el\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fa\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\he\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hr\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hu\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hy\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\id\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\is\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ku\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\lv\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\mt\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nb\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nl\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ro\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sk\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sl\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sr\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sv\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uk\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\vi\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.AssemblyReference.cache
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.GeneratedMSBuildEditorConfig.editorconfig
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfoInputs.cache
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfo.cs
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.CoreCompileInputs.cache
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.MvcApplicationPartsAssemblyInfo.cache
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cache
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cs
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.sourcelink.json
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\bundle\Web_vuottai.styles.css
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\projectbundle\Web_vuottai.bundle.scp.css
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.json
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.development.json
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_vuottai.props
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_vuottai.props
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_vuottai.props
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuot.C76FEAC2.Up2Date
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\refint\Web_vuottai.dll
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.pdb
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.genruntimeconfig.cache
+F:\Data\trung\TT_CSDL\Web_vuottai\obj\Debug\net8.0\ref\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\appsettings.Development.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\appsettings.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.endpoints.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.staticwebassets.runtime.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.exe
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.deps.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.runtimeconfig.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Web_vuottai.pdb
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Azure.Core.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Azure.Identity.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\HarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Humanizer.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\MySqlConnector.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Common.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\QuestPDF.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SkiaSharp.HarfBuzz.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.CodeDom.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.AssemblyReference.cache
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfoInputs.cache
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.AssemblyInfo.cs
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.csproj.CoreCompileInputs.cache
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.MvcApplicationPartsAssemblyInfo.cache
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cache
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.RazorAssemblyInfo.cs
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.sourcelink.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\bundle\Web_vuottai.styles.css
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\scopedcss\projectbundle\Web_vuottai.bundle.scp.css
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.development.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.Web_vuottai.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.build.Web_vuottai.props
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web_vuottai.props
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web_vuottai.props
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuot.C76FEAC2.Up2Date
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\refint\Web_vuottai.dll
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.pdb
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.genruntimeconfig.cache
+D:\Coder\SQL_databases\ttCSDL\TT_CSDL\Web_vuottai\obj\Debug\net8.0\ref\Web_vuottai.dll
+D:\CODE\TT_CSDL\Web_vuottai\obj\Debug\net8.0\Web_vuottai.sourcelink.json

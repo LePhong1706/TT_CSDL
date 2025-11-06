@@ -1,0 +1,36 @@
+﻿@model Web_vuottai.Models.LOAIHOCVIEN
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Thêm mới loại học viên</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="TenLoaiHV" class="control-label">Tên loại học viên</label>
+                <input asp-for="TenLoaiHV" class="form-control" />
+                <span asp-validation-for="TenLoaiHV" class="text-danger"></span>
+            </div>
+
+            <div class="form-group mb-3">
+                <label asp-for="HeSo" class="control-label">Hệ số</label>
+                <input asp-for="HeSo" class="form-control" type="number" step="0.01" value="1.0" />
+                <span asp-validation-for="HeSo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Tạo" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

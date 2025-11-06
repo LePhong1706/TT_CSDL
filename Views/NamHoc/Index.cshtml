@@ -1,0 +1,47 @@
+@model IEnumerable<Web_vuottai.Models.THOIKHOABIEU>
+
+@{
+    ViewData["Title"] = "Quản lý Năm học - Học kỳ";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NamHoc)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HocKy)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenTkb)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NamHoc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HocKy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenTkb)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.TkbId" class="btn btn-sm btn-warning">Sửa</a>
+                <a asp-action="Details" asp-route-id="@item.TkbId" class="btn btn-sm btn-outline-info">Chi tiết</a>
+                <a asp-action="Delete" asp-route-id="@item.TkbId" class="btn btn-sm btn-danger">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

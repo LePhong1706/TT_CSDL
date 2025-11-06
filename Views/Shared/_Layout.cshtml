@@ -1,0 +1,269 @@
+﻿<!doctype html>
+<html lang="en" data-bs-theme="blue-theme">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewData["Title"] - Quản lý vượt tải</title>
+    <!--favicon-->
+    <link rel="icon" href="~/images/Logo_MTA_new.png" type="image/png">
+    <!-- loader-->
+    <link href="~/maxson/assets/css/pace.min.css" rel="stylesheet">
+
+    <!--plugins-->
+    <link rel="stylesheet" href="~/maxson/assets/plugins/swiper/css/swiper-bundle.min.css">
+    <!--bootstrap css-->
+    <link href="~/maxson/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined" rel="stylesheet">
+    <!--main css-->
+    <link href="~/maxson/assets/css/bootstrap-extended.css" rel="stylesheet">
+    <link href="~/maxson/sass/main.css" rel="stylesheet">
+    <link href="~/maxson/assets/css/horizontal-menu.css" rel="stylesheet">
+    <link href="~/maxson/sass/dark-theme.css" rel="stylesheet">
+    <link href="~/maxson/sass/blue-theme.css" rel="stylesheet">
+    <link href="~/maxson/sass/semi-dark.css" rel="stylesheet">
+    <link href="~/maxson/sass/responsive.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+
+</head>
+
+<body>
+    <div class="top-header-strip py-2 border-bottom">
+    <div class="container px-4">
+        <div class="row g-3 align-items-center">
+            <div class="col-12 col-lg-auto me-auto">
+                <div class="d-flex align-items-center gap-3">
+                    <a href="tel:0243754xxxx" class="text-decoration-none text-white-50 d-flex align-items-center gap-2">
+                        <i class="material-icons-outlined fs-6">call</i> 069.698.586
+                    </a>
+                    <a href="mailto:support.qlvt@mta.edu.vn" class="text-decoration-none text-white-50 d-flex align-items-center gap-2">
+                        <i class="material-icons-outlined fs-6">email</i> info@mta.edu.vn
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 col-lg-auto">
+                <div class="d-flex align-items-center gap-3">
+                    <span class="text-white-50">Giờ làm việc: Thứ 2 - Thứ 6: 08:00 - 17:00</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <!--start header-->
+    <header class="top-header">
+        <nav class="navbar navbar-expand align-items-center justify-content-between gap-4 container px-4">
+            <div class="logo-header d-none d-xl-flex align-items-center gap-2">
+                <div class="logo-icon">
+                    <a asp-controller="Home" asp-action="Index"><img src="~/images/Logo_MTA_new.png" class="logo-img" width="45" alt=""></a>
+                </div>
+                <div class="logo-name">
+                    <h5 class="mb-0">Học viện Kỹ thuật Quân sự</h5>
+                </div>
+            </div>
+            <div class="btn-toggle d-xl-none" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar">
+                <a href="javascript:;"><i class="material-icons-outlined">menu</i></a>
+            </div>
+        </nav>
+    </header>
+    <!--end top header-->
+    <!--navigation-->
+    <div class="primary-menu">
+        <nav class="navbar navbar-expand-xl align-items-center container px-4 py-0 py-xl-2">
+            <div class="offcanvas offcanvas-start w-260" tabindex="-1" id="offcanvasNavbar">
+                <div class="offcanvas-header border-bottom h-70">
+                    <div class="d-flex align-items-center gap-2">
+                        <div class="">
+                            <img src="~/images/Logo_MTA_new.png" class="logo-icon" width="45" alt="logo icon">
+                        </div>
+                        <div class="">
+                            <h4 class="logo-text">Học viện Kỹ thuật Quân sự</h4>
+                        </div>
+                    </div>
+                    <a href="javascript:;" class="primaery-menu-close" data-bs-dismiss="offcanvas">
+                        <i class="material-icons-outlined">close</i>
+                    </a>
+                </div>
+                <div class="offcanvas-body p-0">
+                    <ul class="navbar-nav align-items-center flex-grow-1 gap-xl-2">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">
+                                <div class="parent-icon">
+                                    <i class="material-icons-outlined">home</i>
+                                </div>
+                                <div class="menu-title d-flex align-items-center">Trang chủ</div>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="ThongKe" asp-action="Index">
+                                <div class="parent-icon">
+                                    <i class="material-icons-outlined">bar_chart</i>
+                                </div>
+                                <div class="menu-title d-flex align-items-center">Thống kê</div>
+                            </a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="javascript:;" data-bs-toggle="dropdown">
+                                <div class="parent-icon">
+                                    <i class='material-icons-outlined'>settings</i>
+                                </div>
+                                <div class="menu-title d-flex align-items-center">Quản lý</div>
+                                <div class="ms-auto dropy-icon">
+                                    <i class='material-icons-outlined'>expand_more</i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="GIANGVIENs" asp-action="Index"><i class='material-icons-outlined'>circle</i>Quản lý Giảng viên</a></li>
+                                <li><a class="dropdown-item" asp-controller="LOPs" asp-action="Index"><i class='material-icons-outlined'>circle</i>Quản lý Lớp</a></li>
+                                <li><a class="dropdown-item" asp-controller="MONHOCs" asp-action="Index"><i class='material-icons-outlined'>circle</i>Quản lý Môn học</a></li>
+                                <li><a class="dropdown-item" asp-controller="DONVIs" asp-action="Index"><i class='material-icons-outlined'>circle</i>Quản lý Đơn vị</a></li>
+                                <li><a class="dropdown-item" asp-controller="CHUCVUs" asp-action="Index"><i class='material-icons-outlined'>circle</i>Quản lý Chức vụ</a></li>
+                                <li><a class="dropdown-item" asp-controller="NamHoc" asp-action="Index"><i class='material-icons-outlined'>circle</i>Quản lý Năm học</a></li>
+                                <li><a class="dropdown-item" asp-controller="PhanCongChiTiet" asp-action="Index"><i class='material-icons-outlined'>circle</i>Phân công chi tiết</a></li>
+                                <li><a class="dropdown-item" asp-controller="VuotTaiTongQuan" asp-action="Index"><i class='material-icons-outlined'>circle</i>Tổng quan vượt tải</a></li>
+                                <li><a class="dropdown-item" asp-controller="CAKIPs" asp-action="Index"><i class="material-icons-outlined">circle</i>Ca kíp học</a></li>
+                                <li><a class="dropdown-item" asp-controller="CHUCDANHs" asp-action="Index"><i class="material-icons-outlined">circle</i>Chức danh</a></li>
+                                <li><a class="dropdown-item" asp-controller="LOAIHOCVIENs" asp-action="Index"><i class="material-icons-outlined">circle</i>Loại học viên</a></li>
+                                <li><a class="dropdown-item" asp-controller="NGONNGUs" asp-action="Index"><i class="material-icons-outlined">circle</i>Ngôn ngữ</a></li>
+                            </ul>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle dropdown-toggle-nocaret" href="javascript:;" data-bs-toggle="dropdown">
+                                <div class="parent-icon">
+                                    <i class='material-icons-outlined'>build</i>
+                                </div>
+                                <div class="menu-title d-flex align-items-center">Cấu hình</div>
+                                <div class="ms-auto dropy-icon">
+                                    <i class='material-icons-outlined'>expand_more</i>
+                                </div>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="CauHinh" asp-action="DonGiaGio"><i class='material-icons-outlined'>circle</i>Đơn giá giờ</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!--end navigation-->
+
+    <div class="container">
+        @RenderBody()
+    </div>
+
+
+</div>
+
+
+    <section class="footer-widgets py-5 border-top">
+        <div class="container px-4">
+            <div class="row g-4">
+                <div class="col-12 col-lg-4">
+                    <div class="footer-widget-1">
+                        <div class="d-flex align-items-center gap-2">
+                            <img src="~/images/Logo_MTA_new.png" width="45" alt="">
+                            <h5 class="mb-0">Học viện Kỹ thuật Quân sự</h5>
+                        </div>
+                        <p class="mt-3 text-white-50">Hệ thống Quản lý và Thanh toán Giờ giảng Vượt tải. Mọi thắc mắc kỹ thuật vui lòng liên hệ ban hỗ trợ.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-2">
+                    <div class="footer-widget-2">
+                        <h5 class="mb-3">Chức năng chính</h5>
+                        <ul class="list-unstyled d-flex flex-column gap-2">
+                            <li><a asp-controller="Home" asp-action="Index" class="footer-link">Trang chủ</a></li>
+                            <li><a asp-controller="VuotTaiTongQuan" asp-action="Index" class="footer-link">Tổng quan Vượt tải</a></li>
+                            <li><a asp-controller="PhanCongChiTiet" asp-action="Index" class="footer-link">Phân công Chi tiết</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <div class="footer-widget-3">
+                        <h5 class="mb-3">Quản lý & Cấu hình</h5>
+                        <ul class="list-unstyled d-flex flex-column gap-2">
+                            <li><a asp-controller="GIANGVIENs" asp-action="Index" class="footer-link">Quản lý Giảng viên</a></li>
+                            <li><a asp-controller="LOPs" asp-action="Index" class="footer-link">Quản lý Lớp</a></li>
+                            <li><a asp-controller="MONHOCs" asp-action="Index" class="footer-link">Quản lý Môn học</a></li>
+                            <li><a asp-controller="CauHinh" asp-action="GioChuan" class="footer-link">Cấu hình Giờ chuẩn</a></li>
+                            <li><a asp-controller="CauHinh" asp-action="DonGiaGio" class="footer-link">Cấu hình Đơn giá</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <div class="footer-widget-4">
+                        <h5 class="mb-3">Thông tin liên hệ</h5>
+                        <div class="d-flex flex-column gap-3">
+                            <div class="d-flex align-items-center gap-3">
+                                <div class="fs-4"><i class="material-icons-outlined">call</i></div>
+                                <div><span class="text-white-50">069.698.586</span></div>
+                            </div>
+                            <div class="d-flex align-items-center gap-3">
+                                <div class="fs-4"><i class="material-icons-outlined">email</i></div>
+                                <div><span class="text-white-50"> info@mta.edu.vn</span></div>
+                            </div>
+                            <div class="d-flex align-items-center gap-3">
+                                <div class="fs-4"><i class="material-icons-outlined">place</i></div>
+                                <div><span class="text-white-50">Số 236 - Hoàng Quốc Việt - Phường Nghĩa Đô - Thành phố Hà Nội</span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div></div>
+    </section>
+    <footer class="footer-strip py-3 border-top">
+        <div class="container px-4">
+             </div>
+    </footer>
+    ```
+
+    <!--start footer strip-->
+    <footer class="footer-strip py-3 border-top">
+        <div class="container px-4">
+            <div class="row g-4 align-items-center">
+                <div class="col-12 col-lg-auto">
+                    <p class="mb-0 font-12">&copy; 2025 All rights reserved.</p>
+                </div>
+            </div><!--end row-->
+        </div>
+    </footer>
+    <!--end footer strip-->
+    
+    <!--back to top button-->
+    <a href="javaScript:;" class="back-to-top"><i class="bi bi-arrow-up"></i></a>
+    <!--end back to top button-->
+    <!--bootstrap js-->
+    <script src="~/maxson/assets/js/bootstrap.bundle.min.js"></script>
+    <!--loader js-->
+    <script src="~/maxson/assets/js/pace.min.js"></script>
+
+    <!--plugins-->
+    <script src="~/maxson/assets/js/jquery.min.js"></script>
+    <!-- Swiper JS -->
+    <script src="~/maxson/assets/js/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+    <script src="~/maxson/assets/plugins/swiper/js/swiper-bundle.min.js"></script>
+    <script src="~/maxson/assets/plugins/swiper/js/swiper-bundle.min.js"></script>
+    <script src="~/maxson/assets/js/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+    <script src="~/maxson/assets/plugins/swiper/js/swiper-bundle.min.js"></script>
+    
+    <script src="~/maxson/assets/js/main.js"></script>
+
+    <!-- Select2 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script>
+        // Initialize Select2 on elements with the correct class
+        $(document).ready(function() {
+            $('.select2-dropdown').select2({
+                theme: "bootstrap-5" // Optional: for better Bootstrap 5 integration
+            });
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>
