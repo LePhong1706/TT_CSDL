@@ -1,0 +1,213 @@
+@model Web_vuottai.Models.DashboardViewModel
+@{
+    ViewData["Title"] = "Bảng điều khiển";
+}
+
+<main class="main-wrapper">
+    <div class="main-content">
+        <div class="page-breadcrumb d-none d-sm-flex align-items-center mb-3">
+            <div class="breadcrumb-title pe-3">Bảng điều khiển</div>
+            <div class="ps-3">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb mb-0 p-0">
+                        <li class="breadcrumb-item">
+                            <a href="javascript:;"><i class="bx bx-home-alt"></i></a>
+                        </li>
+                        <li class="breadcrumb-item active" aria-current="page">Tổng quan</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+        <form method="get" asp-action="Index" class="row g-3 mb-4 align-items-end p-3 border rounded-3 ">
+            <div class="col-md-5">
+                <label for="namHoc" class="form-label fw-bold">Chọn Năm học</label>
+                <select name="namHoc" class="form-select" asp-items="ViewBag.NamHocs"></select>
+            </div>
+            <div class="col-md-5">
+                <label for="hocKy" class="form-label fw-bold">Chọn Học kỳ</label>
+                <select name="hocKy" class="form-select" asp-items="ViewBag.HocKys"></select>
+            </div>
+            <div class="col-md-2 d-grid">
+                <button type="submit" class="btn btn-primary">Lọc</button>
+            </div>
+        </form>
+        <h6 class="mb-0 text-uppercase">Thống kê nhanh (@ViewBag.TermInfo)</h6>
+        <hr>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4">
+            <div class="col">
+                <div class="card radius-10">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <p class="mb-0 text-secondary">Tổng Giảng viên</p>
+                                <h4 class="my-1">@Model.TongGiangVien</h4>
+                            </div>
+                            <div class="widget-icon-large bg-gradient-primary text-white ms-auto">
+                                <i class="material-icons-outlined">people</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card radius-10">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <p class="mb-0 text-secondary">Tổng Lớp</p>
+                                <h4 class="my-1">@Model.TongLop</h4>
+                            </div>
+                            <div class="widget-icon-large bg-gradient-danger text-white ms-auto">
+                                <i class="material-icons-outlined">class</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card radius-10">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <p class="mb-0 text-secondary">Tổng Giờ Vượt</p>
+                                <h4 class="my-1">@Model.TongGioVuot.ToString("N2")</h4>
+                            </div>
+                            <div class="widget-icon-large bg-gradient-success text-white ms-auto">
+                                <i class="material-icons-outlined">timer</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card radius-10">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <p class="mb-0 text-secondary">Tổng Thanh Toán</p>
+                                <h4 class="my-1">@Model.TongThanhTien.ToString("C0", new System.Globalization.CultureInfo("vi-VN"))</h4>
+                            </div>
+                            <div class="widget-icon-large bg-gradient-warning text-white ms-auto">
+                                <i class="material-icons-outlined">payments</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-xl-8">
+                <div class="card radius-10">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+    <div>
+        <h5 class="mb-0">Top 5 Giảng viên Vượt tải (@ViewBag.TermInfo)</h5>
+    </div>
+</div>
+<div style="height:400px;">
+    <canvas id="barChartTopVuotTai"></canvas>
+</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12 col-xl-4">
+                <div class="card radius-10">
+                    <div class="card-body">
+                        <div class="d-flex align-items-center">
+                            <div>
+                                <h5 class="mb-0">Giờ giảng theo Đơn vị (@ViewBag.TermInfo)</h5>
+                            </div>
+                        </div>
+                        <div class="mt-3">
+                            <canvas id="pieChartDonVi"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+</main>
+@section Scripts {
+<script>
+    $(document).ready(function () {
+
+        // 1. Biểu đồ Cột - Top 5 Giảng viên Vượt tải
+        var barCtx = document.getElementById('barChartTopVuotTai').getContext('2d');
+        new Chart(barCtx, {
+            type: 'bar',
+            data: {
+                // Lấy nhãn (Tên GV) từ ViewModel
+                labels: @Html.Raw(Json.Serialize(Model.TopVuotTaiChart.Labels)),
+                datasets: [{
+                    label: 'Số giờ vượt',
+                    // Lấy dữ liệu (Số giờ) từ ViewModel
+                    data: @Html.Raw(Json.Serialize(Model.TopVuotTaiChart.Data)),
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.6)',
+                        'rgba(54, 162, 235, 0.6)',
+                        'rgba(255, 206, 86, 0.6)',
+                        'rgba(75, 192, 192, 0.6)',
+                        'rgba(153, 102, 255, 0.6)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                },
+                plugins: {
+                    legend: {
+                        display: false // Ẩn chú thích (vì chỉ có 1 bộ dữ liệu)
+                    }
+                }
+            }
+        });
+
+        // 2. Biểu đồ Tròn - Tỷ lệ giờ giảng theo Đơn vị
+        var pieCtx = document.getElementById('pieChartDonVi').getContext('2d');
+        new Chart(pieCtx, {
+            type: 'pie',
+            data: {
+                // Lấy nhãn (Tên Đơn vị) từ ViewModel
+                labels: @Html.Raw(Json.Serialize(Model.DonViChart.Labels)),
+                datasets: [{
+                    label: 'Tổng giờ giảng',
+                    // Lấy dữ liệu (Tổng giờ) từ ViewModel
+                    data: @Html.Raw(Json.Serialize(Model.DonViChart.Data)),
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.8)',
+                        'rgba(54, 162, 235, 0.8)',
+                        'rgba(255, 206, 86, 0.8)',
+                        'rgba(75, 192, 192, 0.8)',
+                        'rgba(153, 102, 255, 0.8)',
+                        'rgba(255, 159, 64, 0.8)'
+                    ],
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                    }
+                }
+            }
+        });
+
+    });
+</script>
+}

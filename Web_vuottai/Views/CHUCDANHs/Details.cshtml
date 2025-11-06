@@ -1,0 +1,23 @@
+﻿@model Web_vuottai.Models.CHUCDANH
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Chi tiết thông tin chức danh</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenChucDanh)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenChucDanh)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.ChucDanhId" class="btn btn-primary">Sửa</a> |
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</div>

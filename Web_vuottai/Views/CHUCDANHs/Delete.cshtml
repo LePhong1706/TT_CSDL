@@ -1,0 +1,27 @@
+﻿@model Web_vuottai.Models.CHUCDANH
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Xóa thông tin chức danh</h1>
+
+<h3>Bạn có chắc muốn xóa chức danh này không?</h3>
+<div>
+
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenChucDanh)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenChucDanh)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ChucDanhId" />
+        <input type="submit" value="Xóa" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>
