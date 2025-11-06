@@ -1,0 +1,78 @@
+﻿@model Web_vuottai.Models.GiangVienUpsertVm
+
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>CHỈNH SỬA THÔNG TIN GIẢNG VIÊN</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="GiangVienId" />
+            <input type="hidden" asp-for="NamHoc" />
+            <input type="hidden" asp-for="HocKy" />
+            <div class="col-md-4">
+                <label asp-for="MaGV" class="form-label">Mã giáo viên</label>
+                <input asp-for="MaGV" class="form-control" />
+                <span asp-validation-for="MaGV" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-10">
+                <label asp-for="HoTen" class="form-label">Họ và tên</label>
+                <input asp-for="HoTen" class="form-control" />
+                <span asp-validation-for="HoTen" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-20">
+                <label asp-for="DonViId" class="form-label">Đơn vị</label>
+                <select asp-for="DonViId" class="form-select" asp-items="ViewBag.DonViList">
+                    <option value="">-- Chọn đơn vị --</option>
+                </select>
+            </div>
+
+            <div class="col-md-10">
+                <label asp-for="ChucVuId" class="form-label">Chức vụ</label>
+                <select asp-for="ChucVuId" class="form-select" asp-items="ViewBag.ChucVuList">
+                    <option value="">-- Chọn chức vụ --</option>
+                </select>
+            </div>
+
+            <div class="col-md-10">
+                <label asp-for="ChucDanhId" class="form-label">Chức danh</label>
+                <select asp-for="ChucDanhId" class="form-select" asp-items="ViewBag.ChucDanhList">
+                    <option value="">-- Chọn chức danh --</option>
+                </select>
+                <span asp-validation-for="ChucDanhId" class="text-danger"></span>
+            </div>
+
+            <div class="col-md-8">
+                <label asp-for="NamHoc" class="form-label">Năm học</label>
+                <select asp-for="NamHoc" class="form-select" asp-items="ViewBag.NamHocList"></select>
+            </div>
+
+            <div class="col-md-5">
+                <label asp-for="HocKy" class="form-label">Học kỳ</label>
+                <select asp-for="HocKy" class="form-select">
+                    <option value="1">Học kỳ 1</option>
+                    <option value="2">Học kỳ 2</option>
+                </select>
+            </div>
+            <br></br>
+            <div class="col-12">
+                <button class="btn btn-primary">Lưu</button>
+                <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

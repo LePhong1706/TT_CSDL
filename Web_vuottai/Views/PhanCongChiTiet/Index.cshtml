@@ -1,0 +1,132 @@
+﻿@model IEnumerable<v_PhanCong_ChiTiet>
+@{
+    ViewData["Title"] = "Phân công chi tiết";
+    // Xóa các biến cũ (years, selYear)
+    int? selHk = ViewBag.HocKy as int?;
+}
+
+<div class="card">
+    <div class="card-header">
+        <h3 class="card-title">@ViewData["Title"]</h3>
+    </div>
+    <div class="card-body">
+
+        <form method="get" class="row g-3 mb-3 align-items-end p-3 border rounded-3">
+            
+            <div class="col-md-4">
+                <label class="form-label" for="giangVienId">Giảng viên</label>
+                <select name="giangVienId" id="giangVienId" class="form-select" asp-items="ViewBag.GiangVienList">
+                    <option value="">--- Tất cả Giảng viên ---</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" for="donViId">Đơn vị</label>
+                <select name="donViId" id="donViId" class="form-select" asp-items="ViewBag.DonViList">
+                    <option value="">--- Tất cả Đơn vị ---</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <label class="form-label" for="lopId">Lớp</label>
+                <select name="lopId" id="lopId" class="form-select" asp-items="ViewBag.LopList">
+                    <option value="">--- Tất cả Lớp ---</option>
+                </select>
+            </div>
+
+            <div class="col-md-4 mt-3">
+                <label class="form-label" for="monHocId">Môn học</label>
+                <select name="monHocId" id="monHocId" class="form-select" asp-items="ViewBag.MonHocList">
+                    <option value="">--- Tất cả Môn học ---</option>
+                </select>
+            </div>
+            <div class="col-md-4 mt-3">
+                <label class="form-label" for="namHoc">Năm học</label>
+                <select name="namHoc" id="namHoc" class="form-select" asp-items="ViewBag.NamHocs"></select>
+            </div>
+            <div class="col-md-4 mt-3">
+                <label class="form-label" for="hocKy">Học kỳ</label>
+                <select name="hocKy" id="hocKy" class="form-select">
+                    <option value="" selected="@(selHk == null)">Cả năm</option> 
+                    <option value="1" selected="@(selHk == 1)">Học kỳ 1</option>
+                    <option value="2" selected="@(selHk == 2)">Học kỳ 2</option>
+                    <option value="3" selected="@(selHk == 3)">Học kỳ 3</option>
+                </select>
+            </div>
+
+            <div class="col-md-4 mt-3">
+                <label class="form-label" for="loaiHVId">Loại Học viên</label>
+                <select name="loaiHVId" id="loaiHVId" class="form-select" asp-items="ViewBag.LoaiHVList">
+                    <option value="">--- Tất cả Loại HV ---</option>
+                </select>
+            </div>
+            <div class="col-md-4 mt-3">
+                <label class="form-label" for="ngonNguId">Ngôn ngữ</label>
+                <select name="ngonNguId" id="ngonNguId" class="form-select" asp-items="ViewBag.NgonNguList">
+                    <option value="">--- Tất cả Ngôn ngữ ---</option>
+                </select>
+            </div>
+            <div class="col-md-4 mt-3">
+                <label class="form-label" for="caKipId">Ca kíp</label>
+                <select name="caKipId" id="caKipId" class="form-select" asp-items="ViewBag.CaKipList">
+                    <option value="">--- Tất cả Ca kíp ---</option>
+                </select>
+            </div>
+
+            <div class="col-12 d-flex gap-2 mt-3">
+                <button class="btn btn-primary" type="submit">Lọc</button>
+                <a asp-action="Index" class="btn btn-secondary">Làm mới</a>
+                <a asp-action="Create" class="btn btn-success ms-auto">Thêm phân công</a>
+            </div>
+
+        </form>
+        </div>
+</div>
+        <div class="table-responsive">
+            <table class="table table-sm table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th>Tên giảng viên</th>
+                        <th>Đơn vị</th>
+                        <th>Năm học</th>
+                        <th>Học kỳ</th>
+                        <th>Lớp</th>
+                        <th>Môn</th>
+                        <th>Loại HV</th>
+                        <th>Ngôn ngữ</th>
+                        <th>Ca kíp</th>
+                        <th>Tiết</th>
+                        <th>Giờ quy đổi</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var r in Model)
+                    {
+                        <tr>
+                            <td>@r.HoTen</td>
+                            <td>@r.TenDonVi</td>
+                            <td>@r.NamHoc</td>
+                            <td>@r.HocKy</td>
+                            <td>@r.TenLop (@r.QuanSo)</td>
+                            <td>@r.TenMonHoc</td>
+                            <td>@r.TenLoaiHV</td>
+                            <td>@r.TenNgonNgu</td>
+                            <td>@r.TenCaKip</td>
+                            <td>@r.SoTiet</td>
+                            <td>@r.GioQuyDoi</td>
+                            <td class="text-nowrap">
+                                <a asp-action="Edit" asp-route-id="@r.PhanCongId" class="btn btn-sm btn-outline-primary">Sửa</a>
+                                <form asp-action="Delete" method="post" class="d-inline">
+                                    <input type="hidden" name="id" value="@r.PhanCongId" />
+                                    <input type="hidden" name="namHoc" value="@r.NamHoc" />
+                                    <input type="hidden" name="hocKy" value="@r.HocKy" />
+                                    <input type="hidden" name="giangVienId" value="@r.GiangVienId" />
+                                    <button class="btn btn-sm btn-outline-danger" onclick="return confirm('Xóa phân công?')">Xóa</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

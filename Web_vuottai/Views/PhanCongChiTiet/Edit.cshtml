@@ -1,0 +1,63 @@
+﻿@model PhanCongEditVm
+@{
+    ViewData["Title"] = "Sửa phân công";
+}
+<form method="post" class="row g-3">
+    @if (Model.PhanCongId != null)
+    {
+        <input type="hidden" asp-for="PhanCongId" /> <input type="hidden" asp-for="TkbCtId" />
+    }
+
+    <div class="col-md-3">
+        <label>Năm học</label>
+        <input class="form-control" asp-for="NamHoc" />
+    </div>
+    <div class="col-md-2">
+        <label>Học kỳ</label>
+        <input class="form-control" asp-for="HocKy" type="number" />
+    </div>
+    <div class="col-md-4">
+        <label>Giảng viên</label>
+        <select class="form-select" asp-for="GiangVienId" asp-items="@(new SelectList((IEnumerable<dynamic>)ViewBag.GiangVien, "GiangVienId","HoTen"))"></select>
+    </div>
+    <div class="col-md-3">
+        <label>Vai trò</label>
+        <input class="form-control" asp-for="VaiTro" />
+    </div>
+
+    <div class="col-md-3">
+        <label>Lớp</label>
+        <select class="form-select" asp-for="LopId" asp-items="@(new SelectList((IEnumerable<dynamic>)ViewBag.Lop, "LopId","TenLop"))"></select>
+    </div>
+    <div class="col-md-3">
+        <label>Môn học</label>
+        <select class="form-select" asp-for="MonHocId" asp-items="@(new SelectList((IEnumerable<dynamic>)ViewBag.MonHoc, "MonHocId","TenMonHoc"))"></select>
+    </div>
+    <div class="col-md-2">
+        <label>Loại HV</label>
+        <select class="form-select" asp-for="LoaiHVId" asp-items="@(new SelectList((IEnumerable<dynamic>)ViewBag.LoaiHV, "LoaiHVId","TenLoaiHV"))"></select>
+    </div>
+    <div class="col-md-2">
+        <label>Ngôn ngữ</label>
+        <select class="form-select" asp-for="NgonNguId" asp-items="@(new SelectList((IEnumerable<dynamic>)ViewBag.NgonNgu, "NgonNguId","TenNgonNgu"))"></select>
+    </div>
+    <div class="col-md-2">
+        <label>Ca kíp</label>
+        <select class="form-select" asp-for="CaKipId" asp-items="@(new SelectList((IEnumerable<dynamic>)ViewBag.CaKip, "CaKipId","TenCaKip"))"></select>
+    </div>
+
+    <div class="col-md-3">
+        <label>Ngày học</label>
+        <input class="form-control" asp-for="NgayHoc" type="date" />
+    </div>
+    <div class="col-md-2">
+        <label>Số tiết</label>
+        <input class="form-control" asp-for="SoTiet" type="number" min="1" />
+    </div>
+
+    <div class="col-12">
+        <button class="btn btn-primary">Lưu</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </div>
+</form>
+

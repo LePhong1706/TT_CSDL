@@ -1,0 +1,30 @@
+@model Web_vuottai.Models.DONVI
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>CHI TIẾT THÔNG TIN ĐƠN VỊ</h1>
+
+<div>
+    <h4>ĐƠN VỊ</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaDonVi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaDonVi)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenDonVi)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenDonVi)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.DonViId" class="btn btn-primary">Sửa</a> |
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</div>

@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Web_vuottai.Models.LOAIHOCVIEN>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Quản lý loại học viên</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Thêm mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenLoaiHV)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HeSo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenLoaiHV)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HeSo)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LoaiHVId" class="btn btn-sm btn-warning">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.LoaiHVId" class="btn btn-sm btn-outline-info">Chi tiết</a> |
+                <a asp-action="Delete" asp-route-id="@item.LoaiHVId" class="btn btn-sm btn-danger">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

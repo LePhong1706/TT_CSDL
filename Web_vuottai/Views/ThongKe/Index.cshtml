@@ -1,0 +1,317 @@
+@{
+    ViewData["Title"] = "Thống kê Vượt tải";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1 class="h3 mb-0 text-gray-800">Thống kê và Báo cáo</h1>
+    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exportPdfModal">
+        <i class="material-icons-outlined">print</i> Xuất Báo cáo
+    </button>
+</div>
+
+<div class="row">
+    <!-- Biểu đồ 1: Xu hướng Tổng giờ vượt tải qua các Năm học -->
+    <div class="col-xl-6 col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Tổng giờ vượt tải qua các Năm học</h6>
+            </div>
+            <div class="card-body">
+                <div class="chart-area">
+                    <canvas id="vuotTaiTrendChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Biểu đồ 2: Xu hướng Tổng chi phí thanh toán qua các Năm học -->
+    <div class="col-xl-6 col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Tổng chi phí thanh toán qua các Năm học</h6>
+            </div>
+            <div class="card-body">
+                <div class="chart-area">
+                    <canvas id="thanhToanTrendChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- Biểu đồ 3: Thống kê Giờ vượt tải theo Chức danh -->
+    <div class="col-xl-6 col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Thống kê Giờ vượt tải theo Chức danh</h6>
+            </div>
+            <div class="card-body">
+                <div class="chart-bar">
+                    <canvas id="vuotTaiByChucDanhChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Biểu đồ 4: Thống kê Giờ vượt tải theo Đơn vị -->
+    <div class="col-xl-6 col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Thống kê Giờ vượt tải theo Đơn vị</h6>
+            </div>
+            <div class="card-body">
+                <div class="chart-bar">
+                    <canvas id="vuotTaiByDonViChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <!-- Biểu đồ 5: Tỷ trọng Giờ giảng theo Loại Học viên -->
+    <div class="col-xl-6 col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Tỷ trọng Giờ giảng theo Loại Học viên</h6>
+            </div>
+            <div class="card-body">
+                <div class="chart-pie pt-4">
+                    <canvas id="gioGiangByLoaiHocVienChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Biểu đồ 6: Tỷ trọng Giờ giảng theo Ngôn ngữ -->
+    <div class="col-xl-6 col-lg-6">
+        <div class="card shadow mb-4">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">Tỷ trọng Giờ giảng theo Ngôn ngữ</h6>
+            </div>
+            <div class="card-body">
+                <div class="chart-pie pt-4">
+                    <canvas id="gioGiangByNgonNguChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exportPdfModal" tabindex="-1" aria-labelledby="exportPdfModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exportPdfModalLabel">Tùy chọn Xuất Báo cáo Vượt tải</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form id="exportPdfForm" action="/ThongKe/ExportVuotTaiPdf" method="get" target="_blank">
+                    <div class="mb-3">
+                        <label for="donVi" class="form-label">Đơn vị</label>
+                        <select id="donVi" name="donViId" class="form-select">
+                            <option value="0">Toàn bộ trường</option>
+                            <!-- Options will be populated by JS -->
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="giangVien" class="form-label">Giảng viên</label>
+                        <select id="giangVien" name="giangVienId" class="form-select">
+                            <option value="0">Toàn bộ khoa/viện</option>
+                            <!-- Options will be populated by JS -->
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="namHoc" class="form-label">Năm học</label>
+                        <select id="namHoc" name="namHoc" class="form-select">
+                            <option value="all">Toàn bộ năm học</option>
+                            <!-- Options will be populated by JS -->
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="hocKy" class="form-label">Học kỳ</label>
+                        <select id="hocKy" name="hocKy" class="form-select">
+                            <option value="all">Toàn bộ các kỳ</option>
+                            <option value="1">Học kỳ 1</option>
+                            <option value="2">Học kỳ 2</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                <button type="submit" form="exportPdfForm" class="btn btn-primary">Xuất PDF</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+@section Scripts {
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    // Biểu đồ 1
+    fetch('/ThongKe/GetVuotTaiTrendData')
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(item => item.namHoc);
+            const values = data.map(item => item.tongGioVuotTai);
+            new Chart(document.getElementById('vuotTaiTrendChart'), {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Tổng giờ vượt tải',
+                        data: values,
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        fill: true,
+                    }]
+                }
+            });
+        });
+
+    // Biểu đồ 2
+    fetch('/ThongKe/GetThanhToanTrendData')
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(item => item.namHoc);
+            const values = data.map(item => item.tongThanhTien);
+            new Chart(document.getElementById('thanhToanTrendChart'), {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Tổng thành tiền',
+                        data: values,
+                        borderColor: 'rgba(255, 99, 132, 1)',
+                        backgroundColor: 'rgba(255, 99, 132, 0.2)',
+                        fill: true,
+                    }]
+                }
+            });
+        });
+
+    // Biểu đồ 3
+    fetch('/ThongKe/GetVuotTaiByChucDanhData')
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(item => item.chucDanh);
+            const values = data.map(item => item.tongGioVuotTai);
+            new Chart(document.getElementById('vuotTaiByChucDanhChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Tổng giờ vượt tải',
+                        data: values,
+                        backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                    }]
+                }
+            });
+        });
+
+    // Biểu đồ 4
+    fetch('/ThongKe/GetVuotTaiByDonViData')
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(item => item.donVi);
+            const values = data.map(item => item.tongGioVuotTai);
+            new Chart(document.getElementById('vuotTaiByDonViChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Tổng giờ vượt tải',
+                        data: values,
+                        backgroundColor: 'rgba(255, 206, 86, 0.6)',
+                    }]
+                }
+            });
+        });
+
+    // Biểu đồ 5
+    fetch('/ThongKe/GetGioGiangByLoaiHocVienData')
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(item => item.loaiHocVien);
+            const values = data.map(item => item.tongGioQuyDoi);
+            new Chart(document.getElementById('gioGiangByLoaiHocVienChart'), {
+                type: 'pie',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: ['#4e73df', '#1cc88a', '#36b9cc'],
+                    }]
+                }
+            });
+        });
+
+    // Biểu đồ 6
+    fetch('/ThongKe/GetGioGiangByNgonNguData')
+        .then(response => response.json())
+        .then(data => {
+            const labels = data.map(item => item.ngonNgu);
+            const values = data.map(item => item.tongGioQuyDoi);
+            new Chart(document.getElementById('gioGiangByNgonNguChart'), {
+                type: 'pie',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: values,
+                        backgroundColor: ['#f6c23e', '#e74a3b', '#858796'],
+                    }]
+                }
+            });
+        });
+
+    // PDF Export Modal Logic
+    const donViSelect = document.getElementById('donVi');
+    const giangVienSelect = document.getElementById('giangVien');
+    const namHocSelect = document.getElementById('namHoc');
+
+    // Populate Don Vi dropdown
+    fetch('/DONVIs/IndexJson')
+        .then(response => response.json())
+        .then(data => {
+            data.forEach(donVi => {
+                const option = new Option(donVi.tenDonVi, donVi.donViId);
+                donViSelect.add(option);
+            });
+        });
+
+    // Populate Nam Hoc dropdown
+    fetch('/ThongKe/GetDistinctNamHoc')
+        .then(response => response.json())
+        .then(data => {
+            data.forEach(namHoc => {
+                const option = new Option(namHoc, namHoc);
+                namHocSelect.add(option);
+            });
+        });
+
+
+    // Handle Don Vi change to update Giang Vien dropdown
+    donViSelect.addEventListener('change', () => {
+        const donViId = donViSelect.value;
+        // Clear current options
+        giangVienSelect.innerHTML = '<option value="0">Toàn bộ khoa/viện</option>';
+
+        if (donViId !== '0') {
+            fetch(`/GIANGVIENs/GetByDonVi?donViId=${donViId}`)
+                .then(response => response.json())
+                .then(data => {
+                    data.forEach(gv => {
+                        const option = new Option(`${gv.hoTen} (${gv.maGV})`, gv.giangVienId);
+                        giangVienSelect.add(option);
+                    });
+                });
+        }
+    });
+});
+</script>
+}

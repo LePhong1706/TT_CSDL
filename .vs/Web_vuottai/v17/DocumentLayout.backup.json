@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\views\\vuottaitongquan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\views\\vuottaitongquan\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\views\\giangviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\views\\giangviens\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\views\\giangviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\views\\giangviens\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\views\\giangviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\views\\giangviens\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\services\\pdf\\vuottaipdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\services\\pdf\\vuottaipdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\controllers\\thongkecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\web_vuottai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\web_vuottai.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|d:\\coder\\sql_databases\\ttcsdl\\tt_csdl\\web_vuottai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3343DFF-9A43-4C76-97D9-50D2D5430529}|Web_vuottai\\Web_vuottai.csproj|solutionrelative:web_vuottai\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 157,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\GIANGVIENs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Web_vuottai\\Views\\GIANGVIENs\\Details.cshtml",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\GIANGVIENs\\Details.cshtml",
+              "RelativeToolTip": "Web_vuottai\\Views\\GIANGVIENs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T07:14:55.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\GIANGVIENs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Web_vuottai\\Views\\GIANGVIENs\\Create.cshtml",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\GIANGVIENs\\Create.cshtml",
+              "RelativeToolTip": "Web_vuottai\\Views\\GIANGVIENs\\Create.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T07:14:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\VuotTaiTongQuan\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web_vuottai\\Views\\VuotTaiTongQuan\\Index.cshtml",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\VuotTaiTongQuan\\Index.cshtml",
+              "RelativeToolTip": "Web_vuottai\\Views\\VuotTaiTongQuan\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAACoAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T01:23:29.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\GIANGVIENs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Web_vuottai\\Views\\GIANGVIENs\\Edit.cshtml",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\GIANGVIENs\\Edit.cshtml",
+              "RelativeToolTip": "Web_vuottai\\Views\\GIANGVIENs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-31T01:22:54.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_vuottai\\appsettings.json",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\appsettings.json",
+              "RelativeToolTip": "Web_vuottai\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T20:27:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VuotTaiPdfDocument.cs",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Services\\Pdf\\VuotTaiPdfDocument.cs",
+              "RelativeDocumentMoniker": "Web_vuottai\\Services\\Pdf\\VuotTaiPdfDocument.cs",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Services\\Pdf\\VuotTaiPdfDocument.cs",
+              "RelativeToolTip": "Web_vuottai\\Services\\Pdf\\VuotTaiPdfDocument.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:55:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web_vuottai.csproj",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Web_vuottai.csproj",
+              "RelativeDocumentMoniker": "Web_vuottai\\Web_vuottai.csproj",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Web_vuottai.csproj",
+              "RelativeToolTip": "Web_vuottai\\Web_vuottai.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T14:54:13.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Program.cs",
+              "RelativeDocumentMoniker": "Web_vuottai\\Program.cs",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Program.cs",
+              "RelativeToolTip": "Web_vuottai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:46:59.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThongKeController.cs",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Controllers\\ThongKeController.cs",
+              "RelativeDocumentMoniker": "Web_vuottai\\Controllers\\ThongKeController.cs",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Controllers\\ThongKeController.cs",
+              "RelativeToolTip": "Web_vuottai\\Controllers\\ThongKeController.cs",
+              "ViewState": "AgIAAIYBAAAAAAAAAAAUwKEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T14:15:13.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web_vuottai\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Coder\\SQL_databases\\ttCSDL\\TT_CSDL\\Web_vuottai\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web_vuottai\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T10:21:29.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+@model Web_vuottai.Models.MONHOC
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>CHI TIẾT THÔNG TIN MÔN HỌC</h1>
+
+<div>
+    <h4>MÔN HỌC</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaMonHoc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaMonHoc)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenMonHoc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenMonHoc)
+        </dd>
+    </dl>
+</div>
+<div>
+   <a asp-action="Edit" asp-route-id="@Model?.MonHocId" class="btn btn-primary">Sửa</a> |
+<a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</div>

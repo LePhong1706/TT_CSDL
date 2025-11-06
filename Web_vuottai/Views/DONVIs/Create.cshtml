@@ -1,0 +1,29 @@
+@model Web_vuottai.Models.DONVI
+
+@{
+    ViewData["Title"] = "Create";
+}
+<h1>TẠO MỚI THÔNG TIN ĐƠN VỊ</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group mb-3">
+                <label asp-for="MaDonVi" class="control-label">Mã đơn vị</label>
+                <input asp-for="MaDonVi" class="form-control" />
+                <span asp-validation-for="MaDonVi" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="TenDonVi" class="control-label">Tên đơn vị</label>
+                <input asp-for="TenDonVi" class="form-control" />
+                <span asp-validation-for="TenDonVi" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Tạo" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+            </div>
+        </form>
+    </div>
+</div>
