@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web_vuottai")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b5e90fa44f3d2c630ad368bf10cb8f1c09a9fb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0c0aacd630a4fe6282efb08a3d20117eb6b4444")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web_vuottai")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web_vuottai")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
